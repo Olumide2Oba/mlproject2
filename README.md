@@ -1,1 +1,1 @@
-## This is a Project under Machine Learning Algorithm
+## This is a project on Machine Learning Algorithm 
